@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "dotenv": "^6.0.0",
-    "unirest": "^0.5.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mjohnwright/type-master.git"
+  },
+  "author": "Matthew Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mjohnwright/type-master/issues"
+  },
+  "homepage": "https://github.com/Mjohnwright/type-master#readme"
 }
